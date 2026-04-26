@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download Loom Videos for Free (Chrome Browser Extension Method)
 
+<a href="https://www.youtube.com/watch?v=SZY_13gQIa0" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-loom-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
+
 
 Loom Video Downloader is a browser extension for saving authorized Loom videos from pages you can access.
 
@@ -29,9 +33,7 @@ Loom Video Downloader detects Loom videos on the current page and gives you a do
 
 Verified repository:
 
-```text
-https://github.com/serpapps/loom-video-downloader
-```
+[serpapps/loom-video-downloader](https://github.com/serpapps/loom-video-downloader)
 
 ## Before You Start
 
